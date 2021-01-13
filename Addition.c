@@ -18,4 +18,5 @@ void main()
         printf("Result is : %d",total);
     //----------คำสั่งโปรแกรมบวกเลข----------//
         printf("KITTISAK BUNKAD");
+        printf("NOOK");
 }
